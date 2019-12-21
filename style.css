@@ -1,0 +1,51 @@
+
+body {background-color: black;
+
+}
+.uvod{background-color:white ;
+opacity: 0.9;
+border: solid 2px black;
+}
+.Naslov{font-size: 40px;
+	font-family: algerian;
+	padding-left: 15px;
+	padding-top: 15px;
+	text-shadow: 2px 3px gray;
+	letter-spacing: 3px; 
+
+}
+.ikona {float: right; 
+	border-radius: 7px
+
+}
+.opis{padding-left: 15px;
+	padding-bottom: 10px;
+font-family: algerian;
+}
+
+.topnav{
+background-color: white;
+overflow: hidden;
+
+}
+.topnav a {
+float: left;
+color: black;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px; 
+
+}
+.topnav a:hover {
+background-color: black;
+color: white;
+
+}
+.topnav a:active{
+background-color: white;
+color: white;
+
+
+}
+
